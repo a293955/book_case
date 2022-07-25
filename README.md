@@ -1,0 +1,2 @@
+# book_case
+springboot+mybatis_plus+vue+axios+element_ui实现的一个对数据库中的图书进行增删改查的小案例
